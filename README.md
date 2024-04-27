@@ -11,4 +11,4 @@ Images original — A visual representation for each audio file. One way to clas
 
 2 CSV files — Containing features of the audio files. One file has for each song (30 seconds long) a mean and variance computed over multiple features that can be extracted from an audio file. The other file has the same structure, but the songs are split before into 3 seconds audio files.
 
-This dataset can be downloaded from here: Music-genre-classification dataset
+This dataset can be downloaded from here: https://www.kaggle.com/code/jvedarutvija/music-genre-classification
